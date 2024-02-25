@@ -1,0 +1,12 @@
+
+*** Running vivado
+    with args -log input_file_reader.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source input_file_reader.tcl
+
+
+
+****** Vivado v2022.2.2 (64-bit)
+  **** SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+  **** IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+    ** Copyright 1986-2023 Xilinx, Inc. All Rights Reserved.
+
+source input_file_reader.tcl -notrace
